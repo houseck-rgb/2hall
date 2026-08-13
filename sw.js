@@ -1,7 +1,6 @@
 const CACHE_NAME = 'cwy-hub-v5';
 const ASSETS = [
   './',
-  './index.html',
   './main.png',
   './manifest.json',
   './icon-192.png',
